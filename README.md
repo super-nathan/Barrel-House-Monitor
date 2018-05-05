@@ -1,1 +1,1 @@
-# Barrel-House-Monitor
+Look here dummy. This is a collection of scripts that I use to do magic. They are open source and you can use them according to the GPL but untill I write up some instructions you are going to be doing a lot of dot connecting. Goodluck and godspeed.
