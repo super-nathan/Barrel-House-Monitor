@@ -2,7 +2,7 @@
 # This script that is called by RC.local at startup. 
 # It was orininally designed to notify someone of a 
 # a catastrophic failure on another project, but will 
-# probably be used on this project to opperate springler 
+# probably be used on this project to opperate sprinkler 
 # solenoids. It is not activly used.
 
 
