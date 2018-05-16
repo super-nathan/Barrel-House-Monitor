@@ -1,0 +1,11 @@
+Source: barrelhouse 
+Section: unknown
+Priority: extra
+Maintainer: "Super" Nathan Weber <nathan@burialbeer.com>
+Build-Depends: debhelper (>= 8.0.0)
+Homepage: www.super-nathan.com
+
+Package: barrelhouse
+Architecture: all
+Depends:
+Description: simple script to install and update the barrelhouse monitor

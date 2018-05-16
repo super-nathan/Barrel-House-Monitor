@@ -11,3 +11,7 @@ This is the meat and potoatos of the barrel monitor. This script is ran by eithe
 ### watchtemps.sh
 
 This program is a holdover from another project and is only kept here because it will be implemented in the future.
+
+## Debian Packaging
+
+This functionality is incomplete and not yet tested. I just though it would be nice to be able to wrap all these scripts up in a package i could use for version control 

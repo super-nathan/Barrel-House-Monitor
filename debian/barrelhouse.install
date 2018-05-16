@@ -1,0 +1,4 @@
+./spreadsheet.py /usr/bin
+./checktemps.py /usr/bin
+./watchpin.sh /usr/bin
+

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+## NOTE
+# post*** scripts are optional, however, if you change something
+# in a postinst script, make sure you undo it in a postrm
+ 
+echo "she all gone boss"
+exit 0
