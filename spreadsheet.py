@@ -12,6 +12,9 @@
 ## for gspread
 # https://github.com/burnash/gspread
 
+## Long Wire problems
+#https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/issues/49
+
 
 import time
 import gspread
