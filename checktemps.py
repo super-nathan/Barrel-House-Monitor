@@ -3,19 +3,17 @@
 ## This is a lighter version of spreadsheet.py 
 # This is just quick and dirty
 
-
-# This script is called by CRON to monitor the 
-# Temperatures and Humidities in the Barrel house.
-# It can also be called by watchtemps or another
-# program or utility
+## How the sensor actually works
+#http://www.nutsvolts.com/magazine/article/march2013_Henry
 
 
 ## Use this video for help with Google API intereation
 # https://www.youtube.com/watch?v=vISRn5qFrkM
 
 
-## for gspread
-# https://github.com/burnash/gspread
+## Long Wire problems
+#https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/issues/49
+
 
 
 import time

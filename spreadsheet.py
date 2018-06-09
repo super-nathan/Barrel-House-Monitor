@@ -4,6 +4,9 @@
 # It can also be called by watchtemps or another
 # program or utility
 
+## How the sensor actually works
+#http://www.nutsvolts.com/magazine/article/march2013_Henry
+
 
 ## Use this video for help with Google API intereation
 # https://www.youtube.com/watch?v=vISRn5qFrkM
@@ -11,6 +14,7 @@
 
 ## for gspread
 # https://github.com/burnash/gspread
+
 
 ## Long Wire problems
 #https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/issues/49
